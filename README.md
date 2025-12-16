@@ -15,3 +15,5 @@ Design Choices:
 
 All Bezier math, tangent computation, and motion logic are implemented manually without using any built in libraries. The endpoints are kept fixed to maintain curve stability, while the middle control points provide flexibility. Rendering and updates are handled in real time using the Canvas API and requestAnimationFrame to maintain smooth performance.
 
+## Demo Video
+[Click here to watch the demo](demo.mp4)
